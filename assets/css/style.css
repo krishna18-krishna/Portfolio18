@@ -66,6 +66,7 @@ nav a {
   color: white;
   text-decoration: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
 
 img {
@@ -159,6 +160,7 @@ h5 {
   position: absolute;
   top: 750px;
   left: 750px;
+  font-size: 100px;
 }
 .img {
   position: absolute;
