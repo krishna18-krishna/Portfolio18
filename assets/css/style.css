@@ -310,7 +310,7 @@ h5{
 
 .linkedin_img{
     position: absolute;
-    top: 3818px;
+    top: 3833px;
     left: 310px;
     height: 55px;
     width: 55px;
@@ -318,27 +318,13 @@ h5{
 .linkedin_id{
     font-size: 35px;
     position: absolute;
-    top: 3790px;
-    left: 440px;
-}
-
-.web_img{
-    position: absolute;
-    top: 3930px;
-    left: 310px;
-    height: 55px;
-    width: 65px;
-}
-.website{
-    font-size: 35px;
-    position: absolute;
-    top: 3900px;
+    top: 3805px;
     left: 440px;
 }
 
 .location_img{
     position: absolute;
-    top: 4035px;
+    top: 3940px;
     left: 320px;
     height: 55px;
     width: 75px;
@@ -346,7 +332,7 @@ h5{
 .location{
     font-size: 35px;
     position: absolute;
-    top: 4005px;
+    top: 3910px;
     left: 440px;
 }
 
